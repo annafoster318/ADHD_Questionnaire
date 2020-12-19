@@ -207,7 +207,7 @@ Q4Score <- ggplot(ADHD, aes(Q4.x, ADHD_Total_Raw.x)) + geom_point() +
   scale_x_continuous(breaks= c(0,1,2,3), labels= c("Never or rarely", "Sometimes", "Often", "Very often")) +
   ggtitle("Participant Total ADHD-RS Score with Question 4 Response")
 
-#### our six plots are then: ####
+#### our seven plots are then: ####
 Q1PredictedScore
 Q2PredictedScore
 Q4PredictedScore
@@ -216,7 +216,7 @@ Q1Score
 Q2Score
 Q4Score
 
-# export our 6 main plots:
+# export our 7 main plots:
 tiff(filename="Q1PredictedScore.tif", width = 7, height = 3, units = "in", res=300)
   Q1PredictedScore   # name of plot
   dev.off()
@@ -287,7 +287,7 @@ write.table(AICTable, "AICTable.csv", quote = FALSE)
 
 #### IN SUMMARY ####
 
-# our six plots
+# our seven plots
 Q1PredictedScore
 Q2PredictedScore
 Q4PredictedScore
@@ -296,7 +296,7 @@ Q1Score
 Q2Score
 Q4Score
 
-# our tables
+# our two tables
 frequencyTable
 AICTable
 
