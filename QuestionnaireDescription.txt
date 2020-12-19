@@ -1,0 +1,200 @@
+## Questionnaire Description
+# {
+#   "MeasurementToolMetadata": {
+#     "Description": "ADHD Rating Scale-IV: Home Version ",
+#     "TermURL": "http://journals.sagepub.com/doi/abs/10.1177/0734282905285792#articleCitationDownloadContainer",
+#     "Citation": "DuPaul, G. J., Power, T. J., Anastopoulos, A. D., & Reid, R. (1998). ADHD Rating Scale-IV: Checklists, norms, and clinical interpretation. New York: Guilford. "
+#   },
+#   "ADHD_HI_Raw": {
+#     "LongName": "ADHD Hyperactivity and Impulsivity Raw",
+#     "Description": "Hyperactivity and impulsivity raw subscore"
+#   },
+#   "ADHD_IA_Raw": {
+#     "LongName": "ADHD Inattention Raw",
+#     "Description": "Inattention raw subscore"
+#   },
+#   "ADHD_Total_Raw": {
+#     "LongName": "ADHD Total Raw",
+#     "Description": "Total ADHD raw score"
+#   },
+#   "Q1": {
+#     "LongName": "Question 1",
+#     "Description": "Fails to give close attention to details or makes careless mistakes in schoolwork.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q2": {
+#     "LongName": "Question 2",
+#     "Description": "Fidgets with hands or feet or squirms in seat.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q3": {
+#     "LongName": "Question 3",
+#     "Description": "Has difficulty sustaining attention in tasks or play activities.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q4": {
+#     "LongName": "Question 4",
+#     "Description": "Leaves seat in classroom or in other situations in which remaining seated is expected.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q5": {
+#     "LongName": "Question 5",
+#     "Description": "Does not seem to listen when spoken to directly.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q6": {
+#     "LongName": "Question 6",
+#     "Description": "Runs about or climbs excessively in situations in which it is inappropriate.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q7": {
+#     "LongName": "Question 7",
+#     "Description": "Does not follow through on instructions and fails to finish work.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q8": {
+#     "LongName": "Question 8",
+#     "Description": "Has difficulty playing or engaging in leisure activities quietly.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q9": {
+#     "LongName": "Question 9",
+#     "Description": "Has difficulty organizing tasks and activities.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q10": {
+#     "LongName": "Question 10",
+#     "Description": "Is on the go or acts as if driven by a motor.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q11": {
+#     "LongName": "Question 11",
+#     "Description": "Avoids tasks (e.g. schoowork, homework) that require sustained mental effort.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q12": {
+#     "LongName": "Question 12",
+#     "Description": "Talks excessively.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q13": {
+#     "LongName": "Question 13",
+#     "Description": "Loses things necessary for tasks or activities.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q14": {
+#     "LongName": "Question 14",
+#     "Description": "Blurts out answers before questions have been completed.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q15": {
+#     "LongName": "Question 15",
+#     "Description": "Is easily distracted.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q16": {
+#     "LongName": "Question 16",
+#     "Description": "Has difficulty awaiting turn.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q17": {
+#     "LongName": "Question 17",
+#     "Description": "Is forgetful in daily activities.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   },
+#   "Q18": {
+#     "LongName": "Question 18",
+#     "Description": "Interrupts or intrudes on others.",
+#     "levels": [
+#       "Never or rarely",
+#       "Sometimes",
+#       "Often",
+#       "Very often"
+#     ]
+#   }
+# }
